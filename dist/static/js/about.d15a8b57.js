@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkupload_test"]=self["webpackChunkupload_test"]||[]).push([[594],{609:function(t,u,n){n.r(u),n.d(u,{default:function(){return d}});var a=n(641);const e={class:"about"},s=(0,a.Lk)("h1",null,"This is an about page",-1),r=[s];function c(t,u){return(0,a.uX)(),(0,a.CE)("div",e,r)}var o=n(262);const l={},i=(0,o.A)(l,[["render",c]]);var d=i}}]);
